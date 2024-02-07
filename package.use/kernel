@@ -1,0 +1,5 @@
+>=sys-kernel/installkernel-24 dracut
+>=virtual/libintl-0-r2 abi_x86_32
+>=sys-libs/libcap-2.69 abi_x86_32
+>=dev-libs/libgcrypt-1.10.2 abi_x86_32
+>=app-arch/lz4-1.9.4 abi_x86_32

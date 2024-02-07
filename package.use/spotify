@@ -1,0 +1,17 @@
+dev-libs/libdbusmenu gtk3
+# required by media-libs/mesa-23.1.8::gentoo[-video_cards_r300,-video_cards_r600,video_cards_radeonsi,-video_cards_radeon]
+# required by x11-drivers/xf86-video-ati-22.0.0::gentoo
+# required by x11-base/xorg-drivers-21.1-r2::gentoo[video_cards_radeonsi,-video_cards_radeon]
+# required by x11-base/xorg-server-21.1.9::gentoo[xorg]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libdrm-2.4.116 video_cards_radeon
+>=media-libs/libcanberra-0.30-r7 pulseaudio
+# required by dev-libs/quazip-1.3-r2::gentoo
+# required by net-im/zoom-5.16.5.303::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-libs/zlib-1.3-r1 minizip
+>=dev-lang/rust-bin-1.71.1 rustfmt
+>=virtual/rust-1.71.1-r1 rustfmt
+>=x11-libs/xcb-util-keysyms-0.4.1 abi_x86_32

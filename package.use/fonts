@@ -1,0 +1,4 @@
+>=media-libs/fontconfig-2.14.2-r3 abi_x86_32
+>=media-libs/freetype-2.13.2 abi_x86_32
+>=sys-apps/util-linux-2.38.1-r3 abi_x86_32
+>=media-libs/libpng-1.6.40-r1 abi_x86_32
